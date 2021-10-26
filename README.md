@@ -5,7 +5,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pgu&repo=pgu.github.io&theme=github_dark)](https://github.com/pgu/pgu.github.io)
 
-### 2021
+### Latest
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pgu&repo=format-and-print-page&theme=github_dark)](https://github.com/pgu/format-and-print-page)
 
 ### Old but still fun
