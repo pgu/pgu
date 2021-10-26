@@ -3,11 +3,11 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pgu&show_icons=true&count_private=true&theme=github_dark)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pgu&repo=pgu.github.io)](https://github.com/pgu/pgu.github.io)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pgu&repo=format-and-print-page)](https://github.com/pgu/format-and-print-page)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pgu&repo=pgu.github.io)](https://github.com/pgu/pgu.github.io&theme=github_dark)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pgu&repo=format-and-print-page)](https://github.com/pgu/format-and-print-page&theme=github_dark)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats&theme=github_dark)
 
 
 <!--
