@@ -3,6 +3,12 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pgu&show_icons=true&count_private=true&theme=github_dark)
 
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pgu&repo=pgu.github.io)](https://github.com/pgu/pgu.github.io)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **pgu/pgu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
