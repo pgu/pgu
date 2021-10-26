@@ -3,11 +3,16 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pgu&show_icons=true&count_private=true&theme=github_dark)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pgu&repo=pgu.github.io)](https://github.com/pgu/pgu.github.io&theme=github_dark)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pgu&repo=format-and-print-page)](https://github.com/pgu/format-and-print-page&theme=github_dark)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pgu&repo=pgu.github.io&theme=github_dark)](https://github.com/pgu/pgu.github.io)
 
+### 2021
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pgu&repo=format-and-print-page&theme=github_dark)](https://github.com/pgu/format-and-print-page)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats&theme=github_dark)
+### Old but still fun
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pgu&repo=pgu-lang-az&theme=github_dark)](https://github.com/pgu/pgu-lang-az)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pgu&repo=pgu-play&theme=github_dark)](https://github.com/pgu/pgu-play)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pgu&repo=pgu-konami&theme=github_dark)](https://github.com/pgu/pgu-konami)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pgu&repo=github-client-simple&theme=github_dark)](https://github.com/pgu/github-client-simple)
 
 
 <!--
