@@ -5,6 +5,8 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pgu&repo=pgu.github.io)](https://github.com/pgu/pgu.github.io)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pgu&repo=format-and-print-page)](https://github.com/pgu/format-and-print-page)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
